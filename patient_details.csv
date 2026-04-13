@@ -1,0 +1,11 @@
+patient_id,name,age,gender,city
+101,Rahul,-25,M,delhi
+102,,30,F,Mumbai
+103,Amit,28,m,DELHI
+104,Sneha,-40,F,chennai
+105,Arjun,35,M,bangalore
+106,Pooja,22,f,KOLKATA
+107,Karan,-31,M,delhi
+108,Neha,27,F,Mumbai
+109,,45,m,CHENNAI
+110,Vikram,-50,M,bangalore
